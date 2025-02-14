@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/getobject-function",
+        "summary": "* The `GetObject` function is used to retrieve an object reference from the Running Object Table (ROT) of the current application.",
+        "questions": [
+            "1. What is the purpose of the GetObject function in the context of the Running Object Table (ROT)?",
+            "2. How can I use the GetObject function to retrieve an object reference from the ROT of the current application?",
+            "3. What are some common scenarios where the GetObject function would be useful or relevant in a programming context?"
+        ]
+    },
+    {
+        "url": "https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/createobject-function",
+        "summary": "This article discusses the use of the CreateObject function in Microsoft Excel VBA to create an object reference to an ActiveX control. The function takes two arguments, the class name and optionally a server name, and returns a reference to the created object. The object can then be used to access its properties and methods.",
+        "questions": [
+            "1. How do I use the CreateObject function in Microsoft Excel VBA to create an object reference to an ActiveX control?",
+            "2. What is the purpose of the class name argument in the CreateObject function, and how do I determine what class name to pass as an argument?",
+            "3. Can you provide an example of how to use the CreateObject function to create an object reference to an ActiveX control in Microsoft Excel VBA?"
+        ]
+    }
+]
